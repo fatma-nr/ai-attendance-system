@@ -1,0 +1,7 @@
+## Description
+Merci de décrire brièvement les changements apportés.
+
+## Checklist
+- [ ] Le code est bien commenté
+- [ ] Le style respecte les conventions
+- [ ] Les tests sont mis à jour

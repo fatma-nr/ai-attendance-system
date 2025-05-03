@@ -1,0 +1,3 @@
+# Guide du développeur
+
+Ce document explique l'organisation du code, les modules principaux et comment étendre le système.

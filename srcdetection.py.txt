@@ -1,0 +1,11 @@
+def detect_faces(image):
+    """
+    Détecte les visages dans une image.
+    """
+    pass
+def generate_embeddings(face):
+    """Génère des embeddings à partir d’un visage."""
+    pass
+def mark_attendance(embedding):
+    """Marque la présence à partir d’un embedding."""
+    pass
